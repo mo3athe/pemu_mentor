@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708107187524",
+    "project_id": "pmu-mentor-f9640",
+    "storage_bucket": "pmu-mentor-f9640.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708107187524:android:817a80c818fee777b65311",
+        "android_client_info": {
+          "package_name": "com.app.treo.pemu_mentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTscA0PKtC-vCJEcgm6ZgooZ2i8w2XW6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
